@@ -2,8 +2,9 @@
 
 Works only with tensorflow 1.x. Works best with tensorflow 1.4 or lower (requiring python 3.6 or lower)
 
+# Original readme: GRAPE-Tensorflow
 
-# GRAPE-Tensorflow (ORIGNAL README)
+Package developers: Nelson Leung , Mohamed Abdelhafez, Jens Koch, David Schuster 
 
 This is the code repository of our recent publication "Speedup for quantum optimal control from automatic differentiation based on graphics processing units" https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.042318
 
